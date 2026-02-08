@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "SPYAIR　『ROCKIN' OUT』",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-08T14:55:38.395108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ROCKIN' OUT",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_ROCKIN'_OUT_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ROCKIN' OUT",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/02_ROCKIN'_OUT_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rollin' In and Rockin' Out",
+      "artist": "Jon Langston",
+      "has_synced": false,
+      "path": "select/03_Rollin'_In_and_Rockin'_Out_Jon_Langston.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ROCKIN' OUT (Live at EX THEATER ROPPONGI 2024.5.5)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_ROCKIN'_OUT_(Live_at_EX_THEATER_ROPPONGI_2024.5.5)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ROCKIN’ OUT",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_ROCKIN’_OUT_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockin' Out",
+      "artist": "Spyair",
+      "has_synced": true,
+      "path": "select/06_Rockin'_Out_Spyair.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROCKIN' OUT",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_ROCKIN'_OUT_SPYAIR.txt"
+    }
+  ]
+}
